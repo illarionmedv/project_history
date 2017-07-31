@@ -1,6 +1,6 @@
 # Special for DYNINNO
 
-In This small project i've created a webpage, where you can easely 
+In This small project i've created a webpage, where you can easily 
 add a different steps of your developing process.
 
 All information are displayed by MySql database.
