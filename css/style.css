@@ -4,7 +4,7 @@ body{
     color:#ffffff;
 }
 .container{
- margin: 40px 40px;   
+    margin: 40px 40px;   
 }
 .container ul{
     list-style:none;
@@ -26,7 +26,7 @@ body{
     position: relative;
 }
 .container ul li > span{
-     content:'';
+    content:'';
     position: absolute;
     top: 0;
     left: -60px;
@@ -71,3 +71,13 @@ body{
     background-color:rgba(96,96,96,0.5);
     padding: 2px;
 }
+ .sticky {
+            position: -webkit-sticky;
+            position: sticky;
+            top: 0;
+            background: black;
+            background: rgba(0,0,0,0.8);
+            padding: 1em;
+            color: white;
+            z-index: 99;
+        }
